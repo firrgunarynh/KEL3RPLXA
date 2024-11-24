@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "No Hands", 
+        "price": 10,
+        "image": "img/NOHANDSPT3.jpg"
+    },
+    {
+        "id": 2,
+        "name": "You Only One",
+        "price": 10,
+        "image": "img/YOUONLYONE.jpg"
+    }
+]
